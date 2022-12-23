@@ -1,0 +1,15 @@
+curl https://connect.squareupsandbox.com/v2/payments \
+  -X POST \
+  -H 'Square-Version: 2022-12-14' \
+  -H 'Authorization: Bearer {ACCESS_TOKEN}' \
+  -H 'Content-Type: application/json' \
+  -d '{
+    "idempotency_key": "{UNIQUE_KEY}",
+    "amount_money": {
+      "amount": 10000,
+      "currency": "USD"
+    },
+    "source_id": "{PAYMENT_TOKEN}"
+  }'
+
+

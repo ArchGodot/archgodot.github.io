@@ -1,0 +1,43 @@
+{   
+    { Catagory_List:",
+        [
+            { 0,    "Nothing / Sleep / Rest" },
+            { 1,    "Routine:Morning" },
+            { 2,    "Routine:Work" },
+            { 3,    "Routine:Lunch" },
+            { 4,    "Routine:Dinner" },
+            { 5,    "Routine:BedTime" },
+            { 6,    "MeTime:Self Care" },
+            { 7,    "UsTime:Relationship" },
+            { 8,    "Chores" },
+            { 9,    "Work:UnPaid / Invest" },
+            { 10,   "Work:Relationship" },
+            { 11,   "Play Time!" }
+        ]
+    },
+    { "Task_List:",
+        [
+            { "Morning Routine / SSS:",     "Routine:Morning" },
+            { "Computer: Work:",            "Work:UnPaid" },
+            { "Feed Cats / Clean Litter:",  "Chores" }
+        ]
+    },
+    { "ToDo_List:", 
+        [
+            { "username:",      "ArchGodot" },
+            { "todo:",          "Feed Cats / Clean Litter" },
+            { "Catagory:",      8 },
+            { "todo_often:",    "Daily" },
+            { "start_time:",    "09:00:00" },
+            { "end_time:",      "" },
+            { "check_dhms:",    2  },
+            { "check_precise:", true },
+            { "check_time:",    "00:15:00" },
+            { "check_status:",  1 },
+            { "check_next:",    "09:15:00" },
+            { "completed:",     false },
+            { "complete_time:", "" }
+        ]
+    }
+}
+        

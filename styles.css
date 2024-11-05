@@ -3,3 +3,22 @@ body {
   padding: 0;
   text-align: center;
 }
+
+.divider {
+  border-bottom: 1px solid #000000;
+}
+
+.title {
+  background-color: darkgrey;
+  color: white;
+  margin: 0 auto;
+  border-top: 1px solid #cccccc;
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #555555;
+  border-bottom: 1px solid #999999;
+}
+
+.wrapper {
+  display: unset;
+  display: flex;
+}

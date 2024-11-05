@@ -9,13 +9,19 @@ body {
 }
 
 .title {
+  font-size: 0.7em;
   background-color: darkgrey;
   color: white;
   margin: 0 auto;
   border-top: 1px solid #cccccc;
   border-left: 1px solid #cccccc;
   border-right: 1px solid #555555;
-  border-bottom: 1px solid #999999;
+  border-bottom: 1px solid #555555;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
 }
 
 .wrapper {

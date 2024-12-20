@@ -1,12 +1,65 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Webcam Feed</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WebRTC Example</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <video id="video1" width="640" height="480"></video>
-  <video id="video2" width="640" height="480"></video>
-  <!-- Add more video elements as needed -->
-  <script src="app.js"></script>
+  <h1>WebRTC Example</h1>
+
+  <!-- Create a new peer connection -->
+  <button id="create-peer-btn">Create Peer Connection</button>
+
+  <!-- Display received stream -->
+  <video id="received-stream" width="640" height="480"></video>
+
+  <script src="/socket.io/socket.io.js" charset="utf-8"></script>
+  <script>
+    const socket = io();
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        // Create a new peer connection
+        document.getElementById('create-peer-btn').addEventListener('click', async (e) => {
+          e.preventDefault();
+          
+          // Get the stream
+          navigator.mediaDevices.getUserMedia({ video: true, audio: false })
+            .then(stream => {
+              // Add the webcam feed to the page
+              document.getElementById('received-stream').srcObject = stream;
+
+              // Send a message to the server indicating that we have access to the webcam feed
+              socket.emit('webcam-feed-available', stream);
+            })
+            .catch(error => {
+              console.error('Error accessing user media:', error);
+            });
+        });
+
+        // Handle incoming webcam feed from the client
+        socket.on('webcam-feed-available', (stream) => {
+          const video = document.getElementById('received-stream');
+          if (!video.srcObject) {
+            video.srcObject = stream;
+          }
+        });
+      } catch (error) {
+        console.error('Error accessing user media:', error);
+      }
+    });
+
+    // Handle join request from peer
+    socket.on('join', (peerId) => {
+      console.log(`Client connected to ${peerId}`);
+    });
+
+    // Handle close connection
+    socket.on('close', () => {
+      console.log('Client disconnected');
+    });
+  </script>
 </body>
 </html>

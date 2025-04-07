@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.divider {
+  border-bottom: 1px solid #000000;
+}
+
+.title {
+  font-size: 0.7em;
+  background-color: darkgrey;
+  color: white;
+  margin: 0 auto;
+  border-top: 1px solid #cccccc;
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #838383;
+  border-bottom: 1px solid #838383;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  display: unset;
+  display: flex;
+}

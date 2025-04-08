@@ -19,3 +19,10 @@ p {
 
 /* Transition */
 
+a, .btn {
+    transition: all 300ms ease;
+}
+
+nav, .nav-links {
+    display: flex;
+}

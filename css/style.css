@@ -9,10 +9,7 @@ body {
 
 .main {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
+  flex-direction: row;
   gap: 1em;
   width: 98vw;
   margin-left: 1vw;
@@ -27,8 +24,8 @@ body {
   align-content: center;
   padding: 1em;
   height: 5vh;
-  width: 96vw;
-  margin-left: 2vw;
+  width: 98vw;
+  margin-left: 1vw;
   border-radius: 2em;
   border: 3px solid rgba(255, 255, 255, 0.5);
 

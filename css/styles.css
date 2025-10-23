@@ -12,6 +12,7 @@ body {
 
 .topbar {
   display: flex;
+  height: 5vh;
   width: 96vw;
   margin-left: 2vw;
   border-radius: 2em;

@@ -14,7 +14,8 @@ body {
   align-content: center;
   text-align: center;
   flex-grow: 0;
-  padding: 2em;
+  padding: 0.5em;
+  max-height: 200px;
   height: 5vh;
   width: 98vw;
   margin-left: 1vw;

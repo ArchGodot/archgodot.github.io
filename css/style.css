@@ -25,8 +25,18 @@ body {
 .main {
   display: flex;
   flex-direction: row;
-  gap: 1em;
+  gap: 0.5em;
   width: 98vw;
   margin-left: 1vw;
   background-color: rgba(48, 48, 48, 0.7);
+}
+
+.leftsidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.cuntent {
+  display: flex;
+  flex-direction: column;
 }

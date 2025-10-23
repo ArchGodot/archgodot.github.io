@@ -13,6 +13,11 @@ html {
     scroll-behavior: smooth;
 }
 
+.side-bar {
+  display: flex;
+  flex-direction: column;
+}
+
 p {
     color: rgb(85, 85, 85);
 }

@@ -1,0 +1,13 @@
+body {
+  background-color: rgba(32, 32, 32, 0.1);
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+}

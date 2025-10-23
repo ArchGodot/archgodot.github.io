@@ -38,6 +38,7 @@ body {
 .leftsidebar {
   display: flex;
   flex-direction: column;
+  padding: 0.5em;
   width: 20vw;
   min-width: 500px;
 }

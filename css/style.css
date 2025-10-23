@@ -13,6 +13,7 @@ body {
   justify-content: space-between;
   align-items: center;
   align-content: center;
+  text-align: center;
   padding: 1em;
   height: 5vh;
   width: 98vw;
@@ -34,6 +35,8 @@ body {
 .leftsidebar {
   display: flex;
   flex-direction: column;
+  width: 20vw;
+  max-width: 500px;
 }
 
 .cuntent {

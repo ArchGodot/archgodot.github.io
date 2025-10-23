@@ -1,7 +1,6 @@
 body {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   align-content: center;
   background-color: rgba(32, 32, 32, 0.1);

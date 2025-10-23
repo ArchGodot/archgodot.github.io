@@ -22,8 +22,8 @@ body {
   width: 98vw;
   margin-left: 2vw;
   border-radius: 15px;
-  border: 3px solid rgba(255, 255, 255, 0.5);
-  background-color: rgb(78, 71, 71);
+  border: 3px solid rgba(255, 255, 255, 0.7);
+  background-color: rgba(119, 99, 99, 0.904);
 }
 
 .main {
@@ -33,8 +33,9 @@ body {
   width: 98vw;
   height: 90vh;
   margin-left: 1vw;
-  background-color: rgba(46, 44, 44, 0.815);
+  background-color: rgba(112, 92, 92, 0.815);
   border-radius: 15px;
+  border: 3px solid rgba(255, 255, 255, 0.7);
 }
 
 .leftsidebar {

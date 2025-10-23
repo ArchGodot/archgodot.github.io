@@ -40,7 +40,7 @@ body {
   flex-direction: column;
   flex-grow: 0;
   padding: 0.5em;
-  width: 20vw;
+  width: 20%;
   max-width: 500px;
   background-color: rgba(45, 48, 250, 0.89);
 }
@@ -48,4 +48,5 @@ body {
 .cuntent {
   display: flex;
   flex-direction: column;
+  width: 80%;
 }

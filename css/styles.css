@@ -5,9 +5,18 @@ body {
 .main {
   display: flex;
   flex-direction: column;
+  width: 98vw;
+  margin-left: 1vw;
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 .topbar {
   display: flex;
+  width: 96vw;
+  margin-left: 2vw;
+  border-radius: 2em;
+  border: 3px solid rgba(255, 255, 255, 0.5);
+  flex-direction: row;
   justify-content: space-between;
+  background-color: rgba(48, 48, 48, 0.1);
 }

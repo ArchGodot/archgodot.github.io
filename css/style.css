@@ -3,7 +3,7 @@ body {
   flex-direction: column;
   align-items: center;
   align-content: center;
-  background-color: rgba(32, 32, 32, 0.1);
+  background-color: rgb(31, 30, 30);
 }
 
 .topbar {
@@ -21,7 +21,7 @@ body {
   margin-left: 1vw;
   border-radius: 15px;
   border: 3px solid rgba(255, 255, 255, 0.5);
-  background-color: rgba(48, 48, 48, 0.1);
+  background-color: rgba(48, 45, 45, 0.5);
 }
 
 .main {
@@ -31,16 +31,18 @@ body {
   width: 98vw;
   height: 90vh;
   margin-left: 1vw;
-  background-color: rgba(48, 48, 48, 0.2);
+  background-color: rgba(46, 44, 44, 0.815);
   border-radius: 15px;
 }
 
 .leftsidebar {
   display: flex;
   flex-direction: column;
+  flex-grow: 0;
   padding: 0.5em;
   width: 20vw;
-  min-width: 500px;
+  max-width: 500px;
+  background-color: rgba(45, 48, 250, 0.89);
 }
 
 .cuntent {

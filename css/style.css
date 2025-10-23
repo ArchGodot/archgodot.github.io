@@ -13,6 +13,7 @@ body {
   align-items: center;
   align-content: center;
   text-align: center;
+  flex-grow: 0;
   padding: 2em;
   height: 5vh;
   width: 98vw;

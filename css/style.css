@@ -39,7 +39,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 20vw;
-  max-width: 500px;
+  min-width: 500px;
 }
 
 .cuntent {

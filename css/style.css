@@ -28,6 +28,7 @@ body {
   flex-direction: row;
   gap: 0.5em;
   width: 98vw;
+  height: 90vh;
   margin-left: 1vw;
   background-color: rgba(48, 48, 48, 0.7);
 }

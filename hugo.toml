@@ -1,4 +1,5 @@
-baseURL = "https://www.tecknicklee.com"
+#baseURL = "https://www.tecknicklee.com"
+baseURL = "https://archgodot.github.io"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -195,7 +196,7 @@ ignoreErrors = ["err-missing-comment-accesstoken", "err-missing-oembed-accesstok
           # title shown in home page (HTML format is supported)
           title = "www.FoolishLee.com"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "Where Clowning Around is Serious Business!"
+          subtitle = "I Teck Nick Lee spelled Tech Nick Lee wrong!"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links

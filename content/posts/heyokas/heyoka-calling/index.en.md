@@ -1,12 +1,12 @@
 ---
-weight: 2
-title: "Tinkering With Anime Pictures and Hugo"
-date: 2026-05-21T15:29:41-04:00
-lastmod: 2026-05-21T15:29:41-04:00
+weight: 1
+title: "The Heyoka Calling""
+date: 2026-05-22T12:06:41-04:00
+lastmod: 2026-05-22T12:06:41-04:00
 draft: false
 author: "FoolishLee"
 authorLink: "https://www.FoolishLee.com"
-description: "Just tinkering around with some anime pictures and Hugo right now."
+description: "Trying To Organize Mice Elf Here!""
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

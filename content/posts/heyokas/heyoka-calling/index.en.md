@@ -6,7 +6,7 @@ lastmod: 2026-05-22T12:06:41-04:00
 draft: false
 author: "FoolishLee"
 authorLink: "https://www.FoolishLee.com"
-description: "Trying To Organize Mice Elf Here!""
+description: "Trying To Organize Mice Elf Here!"
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

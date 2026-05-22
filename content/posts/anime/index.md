@@ -10,8 +10,8 @@ description: "Just tinkering around with some anime pictures and Hugo right now.
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-# - name: "featured-image-preview"
-#   src: "featured-image-preview.webp"
+- name: "featured-image-preview"
+  src: "featured-image-preview.webp"
 
 tags: ["anime"]
 categories: ["tinkering"]

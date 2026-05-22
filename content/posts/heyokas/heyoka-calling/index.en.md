@@ -8,8 +8,8 @@ author: "FoolishLee"
 authorLink: "https://www.FoolishLee.com"
 description: "Trying To Organize Mice Elf Here!"
 resources:
-- name: "Pretty Color Chick"
-  src: "PrettyColorChick.jpg"
+- name: "featured-image"
+  src: "featured-image.jpg"
 # - name: "featured-image-preview"
 #   src: "featured-image-preview.webp"
 

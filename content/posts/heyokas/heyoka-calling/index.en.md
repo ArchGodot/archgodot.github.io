@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "The Heyoka Calling""
+title: "The Heyoka Calling"
 date: 2026-05-22T12:06:41-04:00
 lastmod: 2026-05-22T12:06:41-04:00
 draft: false

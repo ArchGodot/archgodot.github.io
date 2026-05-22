@@ -13,8 +13,8 @@ resources:
 # - name: "featured-image-preview"
 #   src: "featured-image-preview.webp"
 
-tags: ["anime"]
-categories: ["tinkering"]
+tags: ["heyokas"]
+categories: ["heyokas"]
 
 lightgallery: true
 hiddenFromHomePage: false

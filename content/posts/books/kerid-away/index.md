@@ -1,12 +1,12 @@
 ---
 weight: 1
-title: "Keri''d Away"
+title: "Keri'd Away"
 date: 2026-05-22T12:06:41-04:00
 lastmod: 2026-05-22T12:06:41-04:00
 draft: false
 author: "FoolishLee"
 authorLink: "https://www.KeridAway.com"
-description: "AuDHD keeps causing me to get Keri''d Away!"
+description: "AuDHD keeps causing me to get Keri'd Away!"
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"

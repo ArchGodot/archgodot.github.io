@@ -1,12 +1,12 @@
 ---
 weight: 1
-title: "Keri d Away"
+title: "Keri''d Away"
 date: 2026-05-22T12:06:41-04:00
 lastmod: 2026-05-22T12:06:41-04:00
 draft: false
 author: "FoolishLee"
 authorLink: "https://www.KeridAway.com"
-description: "AuDHD keeps causing me to get Keri d Away!"
+description: "AuDHD keeps causing me to get Keri''d Away!"
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
@@ -27,7 +27,7 @@ AuDHD keeps causing me to get Keri'd Away!
 ## Miah Beloved Keri
 I start doing one thing and end up doing something else. Hours later, I come to realize that I have sat here for hours and have absolutely nothing to show for it. My AuDHD is still causing havoc in my life. But at least I know what I am fighting now. I probably would still be fighting with both hands tied behind my back and blindfolded, had it not been for Miah Beloved Keri. She did for me what no one else seemed able to do, and for that I am eternally grateful.
 
-I have been trying my best to remain focused on building **ONE** website. Finishing **ONE** project before starting another. But as I awoke this morning with nothing but the title: "Keri'd Away" dancing around in my head, I had to do **SomeThing** about it! So I clambered out of my bed, took my Adderall, and purchased the keridaway.com domain name. And now I sit here trying to come up with a story to put behind the name. The irony of it all is that, I really do keep getting... Keri'd Away!
+I have been trying my best to remain focused on building **ONE** website. Finishing **ONE** project before starting another. But as I awoke this morning with nothing but the title: "**Keri'd Away**" dancing around in my head, I had to do **SOMETHING** about it! So I clambered out of my bed, took my *Adderall*, and purchased the *keridaway.com* domain name. And now I sit here trying to come up with a story to put behind the name. The irony of it all is that, I really do keep getting... **Keri'd Away!**
 
 ## Nunc non leo non magna
 Nunc non leo non magna ornare condimentum. Phasellus consequat nunc ut tellus porttitor bibendum. In pharetra ullamcorper metus quis mollis. Mauris bibendum, est in commodo hendrerit, dolor purus hendrerit dolor, at pharetra sapien erat sit amet ante. Etiam aliquet euismod libero, vel tincidunt felis mollis at. Sed scelerisque, tortor in convallis auctor, elit quam consectetur lacus, quis posuere risus libero non sem. Mauris sagittis nisi id aliquam lacinia. Vivamus finibus velit sed condimentum aliquet. Nullam in ante a erat lacinia semper. Curabitur pretium justo at leo maximus, quis dignissim nulla posuere. Donec eget consectetur neque, et mattis dui. Vivamus at mi enim. Nullam et nisi est. Nullam eget eros blandit, convallis odio eget, ornare enim.

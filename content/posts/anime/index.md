@@ -13,7 +13,7 @@ resources:
 - name: "featured-image-preview"
   src: "featured-image-preview.webp"
 
-tags: ["anime"]
+tags: ["anime", "tinkering"]
 categories: ["tinkering"]
 
 lightgallery: true

@@ -1,5 +1,5 @@
 #baseURL = "https://www.tecknicklee.com"
-baseURL = "https://archgodot.github.io"
+baseURL = "https://www.keridaway.com"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -12,7 +12,7 @@ theme = "FeelIt"
 
 # website title
 # 网站标题
-title = "www.TeckNickLee.com"
+title = "Keri'd Away"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
